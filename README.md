@@ -1,2 +1,11 @@
-# fresco
-An Android library for managing images and the memory they use. 
+# Fresco 中文版
+
+Fresco是一个强大的系统用于在Android应用中展示图片，它能够从网络、本地存储和本地资源中加载图片。而且，为了节省数据和CPU，它拥有三级缓存。此外，Fresco在显示方面是用了Drawees，可以显示占位符，直到图片加载完成。而当图片从屏幕上消失时，会自动释放图片所占的内存。
+
+Fresco 官网：<http://frescolib.org/>
+
+
+|更新日期    |更新内容
+|----------|--------------------
+|2015-04-01|Fresco 中文版发布
+
