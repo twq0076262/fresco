@@ -1,6 +1,6 @@
-- [关于 Fresco](fresco.md)
+- 配置和使用
   - [下载](download-fresco.md)
-  - [配置和开始使用](index.md)
+  - [配置和开始使用](configuration.md)
   - [关键概念](concepts.md)
   - [支持的 URIs](supported-uris.md)
 - DRAWEE 指南
