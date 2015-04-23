@@ -1,4 +1,4 @@
-# ControllerBuilder
+# 使用ControllerBuilder
 
 
 `SimpleDraweeView` 有两个方法可以设置所要加载显示图片，简单的方法就是`setImageURI`。

@@ -13,7 +13,7 @@ Image pipeline 负责完成加载图像，变成Android设备可呈现的形式�
 
 既然本身就是一个图片加载组件，那么一图胜千言。
 
-![Image Pipeline Diagram](../static/imagepipeline.png "Image Pipeline")
+![Image Pipeline Diagram](images/imagepipeline.png)
 
 上图中，`disk cache`实际包含了未解码的内存缓存在内，统一在一起只是为了逻辑稍微清楚一些。关于缓存，更多细节可以参考[这里](caching.html)。
 

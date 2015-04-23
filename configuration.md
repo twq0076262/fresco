@@ -1,4 +1,4 @@
-# 开始使用 Fresco
+# 配置和开始使用
 
 
 如果你仅仅是想简单下载一张网络图片，在下载完成之前，显示一张占位图，那么简单使用 [SimpleDraweeView](../javadoc/reference/com/facebook/drawee/view/SimpleDraweeView.html) 即可。

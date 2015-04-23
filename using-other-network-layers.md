@@ -1,4 +1,4 @@
-# Using Other Network Layers
+# 自定义网络加载
 
 
 Image pipeline 默认使用[HttpURLConnection](https://developer.android.com/training/basics/network-ops/connecting.html)。应用可以根据自己需求使用不同的网络库。

@@ -1,4 +1,4 @@
-# (图片请求)Image Requests
+# 图片请求
 
 
 如果你需要的`ImageRequest`仅仅是一个URI，那么`ImageRequest.fromURI`就足够了，在[多图请求及图片复用](requesting-multiple-images.html)中，有这样的用法。
