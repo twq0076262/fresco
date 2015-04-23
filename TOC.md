@@ -20,7 +20,7 @@
   - [自定义View](writing-custom-views.md)
   - [一些陷阱](gotchas.md)
 - IMAGE PIPELINE 指南
-  - [什么是Image Pipeline](intro-image-pipeline.md)
+  - [Image Pipeline介绍](intro-image-pipeline.md)
   - [配置Image Pipeline](configure-image-pipeline.md)
   - [缓存的行为控制](caching.md)
   - [直接使用Image Pipeline](using-image-pipeline.md)
